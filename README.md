@@ -42,7 +42,11 @@
 
   ## **Technology**
   https://www.npmjs.com/package/dotenv
-  https://www.npmjs.com/package/sequelize https://www.npmjs.com/package/mysql2
+
+  https://www.npmjs.com/package/sequelize
+  
+  https://www.npmjs.com/package/mysql2
+  
   https://sequelize.org/master/index.html
 
   ## **Tests**
