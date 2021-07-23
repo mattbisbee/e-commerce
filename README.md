@@ -38,7 +38,7 @@
   https://drive.google.com/file/d/1vzsembCfplKCg50e32DFy88QJCQIkHWi/view
 
   ## **Languages**
-  MySQL, Sequelize
+  MySQL, Sequelize, JavaScript
 
   ## **Technology**
   https://www.npmjs.com/package/dotenv
